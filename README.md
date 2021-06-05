@@ -1,12 +1,12 @@
 <h2>Hi There! I am Uzair Riaz. 👋</h2>
-<p>I am Fullstack Web Developer. <a href="https://www.mongodb.com/">MongoDB</a>)</p>
+<p>I am a Student of Computer Science. And a Fullstack Web Developer working on websites since 2019.</p>
 <img src="https://source.unsplash.com/collection/6793981" width="100%" height="auto">
 
 <h3>Connect with me:
 
 <!-- [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 <!-- [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/uzairriazPk]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
