@@ -1,7 +1,6 @@
 <h2>Hi There! I am Uzair Riaz. 👋</h2>
-<p>I am a Student of Computer Science. And a Fullstack Web Developer working on websites since 2019.</p>
-<!-- <img src="https://source.unsplash.com/collection/6793981" width="100%" height="auto"> -->
-<img src="https://www.apple.com/v/apple-events/home/q/images/overview/wwdc21_hero__c7s77kdthjwy_large_2x.jpg" width="100%" height="auto">
+<p>I am a Student of Computer Science and a MERN Fullstack Web Developer.</p>
+<img src="https://source.unsplash.com/collection/6793981" width="100%" height="auto">
 <h3>Connect with me:
 
 <!-- [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
