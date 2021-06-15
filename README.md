@@ -34,6 +34,7 @@
 <a href="https://reactjs.org/"><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
 <a href="https://reactnative.dev/"><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
 <a href="https://nodejs.org/"><img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
+<a href="https://flutter.dev/"><img align="left" alt="Node.js" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhernandezmiguel.es%2Fimages%2Ficonos%2Fflutter.png&f=1&nofb=1" /></a>
 <br />
 <br />
 
@@ -46,10 +47,8 @@
 <p align="center">
 <a href="https://github.com/uzairriaz">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=uzairriaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=uzairriaz&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=uzairriaz&layout=compact&langs_count=8&theme=algolia"/> 
 </a>
 </p>
-
-<br>
 
 <br>
