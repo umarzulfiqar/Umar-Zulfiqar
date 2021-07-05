@@ -44,6 +44,8 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
 <a href="https://flutter.dev/"><img align="left" alt="Node.js" width="26px" height="26px"
         src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhernandezmiguel.es%2Fimages%2Ficonos%2Fflutter.png&f=1&nofb=1" /></a>
+<a href="https://swift.org"><img align="left" alt="Node.js" width="26px" height="26px"
+        src="https://miro.medium.com/max/1400/1*6-G_o5PZSzppyfdLTbFu-A.png" /></a>
 <br />
 <br />
 
