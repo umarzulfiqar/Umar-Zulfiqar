@@ -1,5 +1,5 @@
 <h2>Hi There! I am Uzair Riaz. 👋</h2>
-<p>I am a Student of Computer Science and a MERN Fullstack Web Developer.</p>
+<p>I am a Student of Computer Science and a Code Writter.</p>
 <img src="https://source.unsplash.com/collection/6793981" width="100%" height="auto">
 <h3>Connect with me:
 
