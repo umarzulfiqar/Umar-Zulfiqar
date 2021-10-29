@@ -1,7 +1,7 @@
 <h2>Hi There! I am Uzair Riaz. 👋</h2>
 <p>I am a Student of Computer Science and a Code Writter.</p>
 <img src="https://source.unsplash.com/collection/6793981" width="100%" height="auto">
-<h3>Connect with me:
+<!-- <h3>Connect with me: -->
 
 <!-- [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 <!-- [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
@@ -9,7 +9,7 @@
 <!-- <a href = "https://www.linkedin.com/in/uzairriazpk/"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> -->
 <!-- <a href = "https://www.instagram.com/uzairriaz.pk/"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a> -->
 <br/>
----
+<!-- --- -->
 <h3>Something about me<h3/>
     
 - 🔭 I am currently working on Data Structures and Algorithm!
