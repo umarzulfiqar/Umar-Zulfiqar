@@ -12,13 +12,13 @@
 <!-- --- -->
 <h3>Something about me<h3/>
     
-- 🔭 I am currently working on Data Structures and Algorithm!
+- 🔭 I am currently working on React!
   <br>
 - 🌱 I’m currently learning Swift 
   <br>
 - 👯 I’m looking to collaborate with other content creators
   <br>
-- 🥅 Goal: Work at Apple  as Developer 👨‍💻
+- 🥅 Goal: Work at Apple  as Core Developer 👨‍💻
   <br>
 - ⚡ Fun fact: I love Memes 😂
   <br>
