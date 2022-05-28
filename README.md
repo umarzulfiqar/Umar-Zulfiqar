@@ -1,6 +1,6 @@
 <h2>Hi There! I am Uzair Riaz. 👋</h2>
 <p>I am a Student of Computer Science and a Code Writter.</p>
-<img src="https://images.unsplash.com/photo-1476067897447-d0c5df27b5df" width="100%" height="auto">
+<img src="[https://images.unsplash.com/photo-1476067897447-d0c5df27b5df](https://images.unsplash.com/photo-1563203369-26f2e4a5ccf7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80)" width="100%" height="auto">
 <!-- <h3>Connect with me: -->
 
 <!-- [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
@@ -13,9 +13,9 @@
 <!-- --- -->
 <h3>Something about me<h3/>
     
-- 🔭 I am currently working on React!
+- 🔭 I am currently working on Lambda!
   <br>
-- 🌱 I’m currently learning Swift 
+- 🌱 I’m currently learning SwiftUI 
   <br>
 - 👯 I’m looking to collaborate with other content creators
   <br>
