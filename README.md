@@ -15,7 +15,7 @@
     
 - 🔭 I am currently working on Lambda!
   <br>
-- 🌱 I’m currently learning SwiftUI 
+- 🌱 I’m currently learning a lot 
   <br>
 - 👯 I’m looking to collaborate with other content creators
   <br>
