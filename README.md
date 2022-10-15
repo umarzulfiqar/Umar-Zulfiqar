@@ -21,7 +21,7 @@
   <br>
 - 🥅 Goal: Work at Apple  as Core Developer 👨‍💻
   <br>
-- ⚡ Fun fact: I write Code for company but I solve problems for myself 😂
+- ⚡ Fun fact: I write Code for company but I solve problems for myself 
   <br>
 
 
