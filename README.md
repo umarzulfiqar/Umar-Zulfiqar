@@ -13,15 +13,15 @@
 <!-- --- -->
 <h3>Something about me<h3/>
     
-- 🔭 I am currently working on Lambda!
+- 🔭 I am currently working on ReactJS and NodeJS
   <br>
-- 🌱 I’m currently learning a lot 
+- 🌱 I’m currently learning a lot
   <br>
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers to learn from them
   <br>
 - 🥅 Goal: Work at Apple  as Core Developer 👨‍💻
   <br>
-- ⚡ Fun fact: I love Memes 😂
+- ⚡ Fun fact: I write Code for company but I solve problems for myself 😂
   <br>
 
 
