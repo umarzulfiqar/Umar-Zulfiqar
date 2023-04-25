@@ -13,13 +13,13 @@
 <!-- --- -->
 <h3>Something about me<h3/>
     
-- 🔭 I am currently working on ReactJS and NodeJS
+- 🔭 I am currently working on NextJs, NodeJS and K8s ☸️ 
   <br>
 - 🌱 I’m currently learning a lot
   <br>
 - 👯 I’m looking to collaborate with other developers to learn from them
   <br>
-- 🥅 Goal: Work at Apple  as Core Developer 👨‍💻
+- 🥅 Goal: DevOps ♾️
   <br>
 - ⚡ Fun fact: I write Code for company but I solve problems for myself 
   <br>
