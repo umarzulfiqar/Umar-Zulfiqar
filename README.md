@@ -13,15 +13,15 @@
 <!-- --- -->
 <h3>Something about me<h3/>
     
-- 🔭 I am currently working on NextJs, NodeJS and K8s ☸️ 
+- 🔭 I am currently working on NextJs, NodeJS, docker 🐋 and  K8s ☸️ 
   <br>
-- 🌱 I’m currently learning a lot
+- 🌱 Learning is a continues process 😊
   <br>
-- 👯 I’m looking to collaborate with other developers to learn from them
+- 👯 I’m looking to collaborate 🤝 with other developers to learn from them.
   <br>
 - 🥅 Goal: DevOps ♾️
   <br>
-- ⚡ Fun fact: I write Code for company but I solve problems for myself 
+- ⚡ Fun fact: I write Code for company but I solve problems for myself. 
   <br>
 
 
