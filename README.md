@@ -1,6 +1,6 @@
 <h2>Hi There! I am Uzair Riaz. 👋</h2>
 <p>I am a Student of Computer Science and a Code Writter.</p>
-<img src="https://images.unsplash.com/photo-1563203369-26f2e4a5ccf7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" width="100%" height="auto">
+<img src="https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration.jpg" width="100%" height="auto">
 <!-- <h3>Connect with me: -->
 
 <!-- [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
