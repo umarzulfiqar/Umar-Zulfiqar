@@ -1,5 +1,5 @@
 <h2>Hi There! I am Uzair Riaz. 👋</h2>
-<p>I am a Student of Computer Science and a Code Writter.</p>
+<p>I am a Student of Computer Science and a Code Writer.</p>
 <img src="https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration-Dark.jpg" width="100%" height="auto">
 <!-- <h3>Connect with me: -->
 
@@ -15,13 +15,13 @@
     
 - 🔭 I am currently working on NextJs, NodeJS, docker 🐋 and  K8s ☸️ 
   <br>
-- 🌱 Learning is a continues process 😊
+- 🌱 Learning is a continuous process 😊
   <br>
 - 👯 I’m looking to collaborate 🤝 with other developers to learn from them.
   <br>
 - 🥅 Goal: DevOps ♾️
   <br>
-- ⚡ Fun fact: I write Code for company but I solve problems for myself. 
+- ⚡ Fun fact: I write Code for the company but I solve problems for myself. 
   <br>
 
 
