@@ -1,5 +1,5 @@
 <h2>Hi There! I am Uzair Riaz. 👋</h2>
-<p>I am a Student of Computer Science and a Code Writer.</p>
+<p>I am a Code Writer.</p>
 <img src="https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration-Dark.jpg" width="100%" height="auto" />
 <!-- <h3>Connect with me: -->
 
