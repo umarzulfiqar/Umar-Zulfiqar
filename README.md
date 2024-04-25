@@ -1,4 +1,4 @@
-<h2>Hi There! I am Uzair Riaz. 👋</h2>
+<h2>Hi There! I am Umar Zulfiqar. 👋</h2>
 <p>I am a Code Writer.</p>
 <img src="https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration-Dark.jpg" width="100%" height="auto" />
 <!-- <h3>Connect with me: -->
@@ -13,7 +13,7 @@
 <!-- --- -->
 <h3>Something about me<h3/>
     
-- 🔭 I am currently working on NextJs, NodeJS, docker 🐋 and  K8s ☸️ 
+- 🔭 I am currently studing CS at Lahore Garrision University.
   <br>
 - 🌱 Learning is a continuous process 😊
   <br>
